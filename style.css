@@ -23,7 +23,7 @@ html{
     transition: all 0.3s ease;
 }
 .navbar.sticky{
-    padding: 15px 0;
+    padding: 20px 0;
     background: #b3a369;
 }
 .navbar .max-width{
@@ -127,7 +127,7 @@ html{
     background: #b3a369;
     color: #fff;
     font-size: 25px;
-    padding: 12px 36px;
+    padding: 10px 20px;
     margin-top: 20px;
     border-radius: 6px;
     border: 2px solid #b3a369;
@@ -509,8 +509,9 @@ footer .footer-content{
     text-align: center;
 }
 footer .footer-content h3{
-    font-size: 25px;
-    font-weight: 400;
+    color: #b3a369;
+    font-size: 30px;
+    font-weight: 500;
     text-transform: capitalize;
     line-height: 3rem;
 }

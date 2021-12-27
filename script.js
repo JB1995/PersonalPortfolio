@@ -22,15 +22,15 @@ $(document).ready(function(){
     });
     // typing animation script
     var typed = new Typed(".typing", {
-        strings:["YouTuber", "Blogger", "Software Engineer", "Designer", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings:["Agricultural", "Biological", "Environmental"],
+        typeSpeed: 80,
+        backSpeed: 50,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings:["YouTuber", "Blogger", "Software Engineer", "Designer", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings:["Agricultural", "Biological", "Environmental"],
+        typeSpeed: 80,
+        backSpeed: 50,
         loop: true
     });
     // owl carousel script
